@@ -1,6 +1,6 @@
 <?php
 
-namespace sergks\transliterate;
+namespace vicos\transliterate;
 
 use yii;
 use yii\behaviors\AttributeBehavior;
@@ -14,7 +14,7 @@ use yii\validators\UniqueValidator;
  * Пример,
  * 
  * ```php
- * use sergks\transliterate\TransliterateBehavior;
+ * use vicos\transliterate\TransliterateBehavior;
  *
  * public function behaviors()
  * {
